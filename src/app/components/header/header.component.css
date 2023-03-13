@@ -1,0 +1,18 @@
+.header-container{
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.header-padding-right{
+  width: 30%;
+}
+.header-container .links ul{
+  display: flex;
+  list-style-type: none;
+}
+
+.header-padding-left{
+  width: 30%;
+}
